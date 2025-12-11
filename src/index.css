@@ -1,0 +1,8 @@
+:root {
+  background: rgba(255, 255, 255, 0.624);
+}
+
+.page {
+  display: grid;
+  justify-content: center;
+}
